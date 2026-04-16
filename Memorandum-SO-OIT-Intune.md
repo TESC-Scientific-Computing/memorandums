@@ -19,7 +19,7 @@ Therefore, Science (via Scientific Computing) participation in Microsoft Entra H
 
 ## II. Technical Discovery
 
-- Confirmation : Tenant ID = `22adcff7-c06f-49a6-8f20-50711c40ddaa`
+- Confirmation : Tenant ID = `00000000-0000-0000-0000-000000000000`
 
 - SCP (Service Connection Point) key does not include the expected Entra ID device registration GUID typically required for Hybrid Join in AD. SCP verification [`CN=Device Registration Configuration,CN=Services,CN=Configuration,DC=evergreen,DC=edu`] is missing fixed GUID `62a0ff2e-d1b5-4a69-a3b0-0b619943324d`
 
