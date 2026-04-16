@@ -1,2 +1,2 @@
 # memorandums
-Collection of officail memorandums
+Collection of official memorandums.
